@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const SectionResults = () => {
   return (
-    <section className=" py-20 lg:py-20">
+    <section className=" py-0 lg:py-20">
       <div className="container">
         <div className="flex flex-wrap items-center lg:flex-nowrap lg:space-x-16">
           <div className="mt-10 h-auto w-full rounded-xl lg:h-auto lg:w-[50%] lg:pr-20">
@@ -15,7 +15,7 @@ const SectionResults = () => {
             />
           </div>
 
-          <div className="w-full lg:w-[50%]">
+          <div className="w-full pt-10 lg:w-[50%]">
             <div className="flex flex-col ">
               <h2 className="text-left text-3xl uppercase text-black lg:pb-4">
                 About Moringa Energy Bar
