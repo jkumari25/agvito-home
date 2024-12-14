@@ -32,10 +32,10 @@ const SectionResults = () => {
                 Packed with the power of Moringa, a superfood known for its
                 numerous health benefits, this energy bar offers essential
                 vitamins, minerals, and antioxidants that support overall
-                well-being. Whether you're heading to work, hitting the gym, or
-                simply in need of a healthy snack, the Moringa Energy Bar
-                provides the energy boost you need without compromising on taste
-                or quality.
+                well-being. Whether you&apos;re heading to work, hitting the
+                gym, or simply in need of a healthy snack, the Moringa Energy
+                Bar provides the energy boost you need without compromising on
+                taste or quality.
               </p>
               {/* <p className="mb-4 text-justify text-md">
                 <b>What We Do:</b> We aim to drive a paradigm shift in societal
